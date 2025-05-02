@@ -42,3 +42,4 @@ replay_*.log
 # cache files
 .cache/
 *.cache
+src/generated/resources/.cache/
