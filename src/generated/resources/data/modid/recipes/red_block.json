@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "minecraft:red_dye"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RDR",
+    "RRR"
+  ],
+  "result": {
+    "item": "modid:red_block"
+  },
+  "show_notification": true
+}
